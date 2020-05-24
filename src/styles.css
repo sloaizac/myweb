@@ -1,0 +1,32 @@
+
+#profile h1{
+  font-weight: bold;
+  font-size: 42px;
+  text-align: center;
+}
+
+span img{
+  width: 1.8em;
+  height: 1.5em;
+  margin-right: 0.5em;
+}
+
+ul h4{
+  text-transform: uppercase;
+  text-align: center;
+  margin: 1em;
+}
+
+.proj{
+  border: 2px solid rgba(0, 102, 255, 0.5);
+  margin-bottom: 1em;
+}
+
+#projects h3{
+  text-transform: uppercase;
+}
+
+footer{
+  background-color: black;
+  color: white;
+}
