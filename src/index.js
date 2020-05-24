@@ -15,7 +15,7 @@ function Profile() {
 
                 <img src="profile.jpg" alt="profile" className="col-md-4 col-lg-3 col-sm-6 rounded-circle p-3" />
 
-                <div className="col-md-8 col-lg-8 col-sm-8 mt-3 p-5">
+                <div className="col-md-8 col-lg-8 col-sm-10 mt-3 p-2">
                     <h3>About me</h3>
                     <p>
                         i'm student of systems engineering, i have 20 years old, passionate for autodidact learning, sharing knwoleges and experiences, and the tech,
