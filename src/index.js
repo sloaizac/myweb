@@ -18,8 +18,8 @@ function Profile() {
                 <div className="col-md-8 col-lg-8 col-sm-10 mt-3 p-2">
                     <h3>About me</h3>
                     <p>
-                        i'm student of systems engineering, i have 20 years old, passionate for autodidact learning, sharing knwoleges and experiences, and the tech,
-                        i like the sports and read, the work in team and tackling new challenges that be able to make a impact.
+                        I'm student of systems engineering, i am 20 years old, passionate for autodidact learning, sharing knwoledge and experiences, and the tech,
+                        i like the sports and read, the work in team and tackling new challenges that be able to make an impact.
                     </p>
                 </div>
             </div>
